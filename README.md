@@ -45,10 +45,3 @@ A Streamlit web app that extracts key applicant details from scanned **loan appl
 ![Screenshot 2025-04-24 210104](https://github.com/user-attachments/assets/d9811e3f-cb49-4a9a-b54a-c6ae333605f7)
 
 
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/your-username/loan-ocr-app.git
-cd loan-ocr-app
-pip install -r requirements.txt
-streamlit run app
