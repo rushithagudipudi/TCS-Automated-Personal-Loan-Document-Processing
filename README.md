@@ -27,6 +27,8 @@ A Streamlit web app that extracts key applicant details from scanned **loan appl
 - **Pandas** (CSV handling)
 
 ---
+## Demo Video
+[streamlit-loan_ocr_app-2025-04-25-12-04-68.webm](https://github.com/user-attachments/assets/6f0fd278-4b4b-4361-941d-fb2080beb70e)
 
 ## 📸 Screenshots
 
