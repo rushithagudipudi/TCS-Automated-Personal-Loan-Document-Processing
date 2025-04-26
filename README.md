@@ -8,7 +8,7 @@ A Streamlit web app that extracts key applicant details from scanned **loan appl
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Upload Form** (JPG/PNG)  
 2. **Preprocessing** with OpenCV (grayscale → denoise → threshold)  
@@ -20,7 +20,7 @@ A Streamlit web app that extracts key applicant details from scanned **loan appl
 
 ---
 
-## 🔧 Tech Stack
+##  Tech Stack
 
 - **Python + Streamlit**
 - **Tesseract OCR**
@@ -31,7 +31,7 @@ A Streamlit web app that extracts key applicant details from scanned **loan appl
 ---
 
 
-## 📸 Screenshots
+## Screenshots
 
 ### Main Page
 ![Screenshot 2025-04-24 205524](https://github.com/user-attachments/assets/5819c5ab-2083-4089-913c-1d9351e2123b)
