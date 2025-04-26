@@ -1,5 +1,6 @@
 ## Demo Video
-[streamlit-loan_ocr_app-2025-04-25-12-04-68.webm](https://github.com/user-attachments/assets/6f0fd278-4b4b-4361-941d-fb2080beb70e)
+[demo_video.webm](https://github.com/user-attachments/assets/dc120ddc-5953-4efa-bf3a-dda165015e6b)
+
 
 # 📄 Personal Loan Application OCR Processor
 
